@@ -1,6 +1,6 @@
-<div align="center">
-<img src="./bg.png" width="100%" alt="科技网络背景">
-</div>
+
+
+<img width="1536" height="1024" alt="b29477f3fe41cf4786107c9d27640c7e" src="https://github.com/user-attachments/assets/ac9e5db8-358a-4445-9bae-d8fb79937c8d" />
 
 
 # Hi 👋, 我是流浪
