@@ -11,7 +11,3 @@
 - 📝 CSDN博客：https://blog.csdn.net/2502_94387000
 - 📮 邮箱：2171498913@qq.com
 
-### 📊 Github 数据
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=open577&show_icons=true&theme=tokyonight" alt="open577 github stats">
-</div>
