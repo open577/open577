@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./network.gif" width="100%" alt="动态网络背景">
+<img src="./network.gif" width="100%" alt="动态科技网络背景">
 </div>
 
 # Hi 👋, 我是流浪
@@ -12,5 +12,5 @@
 
 ### 📊 Github 数据
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=open577&show_icons=true&theme=tokyonight" alt="github stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=open577&show_icons=true&theme=tokyonight" alt="open577 github stats">
 </div>
