@@ -1,6 +1,5 @@
 <img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/c20defc7-ef4f-45a2-926f-7251ad2062d8" />
 
-<img width="1536" height="1024" alt="b29477f3fe41cf4786107c9d27640c7e" src="https://github.com/user-attachments/assets/ac9e5db8-358a-4445-9bae-d8fb79937c8d" />
 
 blob:https://chatgpt.com/12d93759-8700-46df-b542-dfad53d79c1f
 # Hi 👋, 我是流浪
