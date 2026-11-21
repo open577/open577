@@ -1,7 +1,7 @@
 <img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/c20defc7-ef4f-45a2-926f-7251ad2062d8" />
 
 
-blob:https://chatgpt.com/12d93759-8700-46df-b542-dfad53d79c1f
+
 
 
 <div align="center">
