@@ -27,6 +27,7 @@
 
 # Hi 👋, 我是流浪
 一名充满热情的大学生
+- 技术栈:C/C++、Python、Linux、计算机网络、MySQL、LangChain&LangGraph
 
 
 - 持续进行内容输出 期待你的关注
