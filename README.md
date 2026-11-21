@@ -17,7 +17,8 @@
 ### 代表作
 | 项目 | 技术栈 | 一句话 |
 |---|---|---|
-| mini-rabbitmq | C++ / 网络 / 多线程 | 仿 RabbitMQ 实现的消息队列 |
+| mini-rabbitmq | C++ / 网络 / 多线程 /Linux  | 仿 RabbitMQ 实现的消息队列 |
+| Chat-SDK | C++ / 网络 / SQList / Linux | 基于C++实现LLM聊天交互 |
 
 ### 最近在写
 <!-- BLOG-POST-LIST:START --> <!-- BLOG-POST-LIST:END -->
@@ -26,12 +27,6 @@
 
 # Hi 👋, 我是流浪
 一名充满热情的大学生
-
-## 📌 关于我
-- 💻 技术栈：C/C++ Linux 计算机网络 MySQL
-- 正在进行项目：C++----Chat-SDK 
-- 📝 CSDN博客：https://blog.csdn.net/2502_94387000
-- 📮 邮箱：2171498913@qq.com
 
 
 - 持续进行内容输出 期待你的关注
