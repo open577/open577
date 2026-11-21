@@ -6,6 +6,10 @@ blob:https://chatgpt.com/12d93759-8700-46df-b542-dfad53d79c1f
 一名充满热情的大学生
 
 ## 📌 关于我
-- 💻 正在学习 C / C++ / 算法
+- 💻 技术栈：C/C++ Linux 计算机网络 MySQL
+- 正在进行项目：C++----Chat-SDK 
 - 📝 CSDN博客：https://blog.csdn.net/2502_94387000
 - 📮 邮箱：2171498913@qq.com
+
+
+- 持续进行内容输出 期待你的关注
