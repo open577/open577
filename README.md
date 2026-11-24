@@ -15,7 +15,7 @@
 </div>
 
 ### 代表作
-| 项目 | 技术栈 | 一句话 |
+| 项目 | 技术栈 | 作用 |
 |---|---|---|
 | mini-rabbitmq | C++ / 网络 / 多线程 /Linux  | 仿 RabbitMQ 实现的消息队列 |
 | Chat-SDK | C++ / 网络 / SQList / Linux | 基于C++实现LLM聊天交互 |
