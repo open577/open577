@@ -8,7 +8,7 @@
 
 ![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&width=600&lines=Hi%2C+I+am+Liulang;C%2B%2B+%2F+Linux+system+programming;Building+mini-rabbitmq+and+Chat-SDK)
 
-**软件工程 · C/C++ / Linux 系统编程 / 数据结构与算法 ｜ CSDN 博主「流浪」**
+**软件工程 · C/C++ / Linux 系统编程 / 数据结构与算法 ｜ [CSDN 博主「流浪」](https://blog.csdn.net/2502_94387000)**
 
 ![skills](https://skillicons.dev/icons?i=c,cpp,linux,git,python,mysql,bash,cmake)
 
